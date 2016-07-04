@@ -1,4 +1,9 @@
-My first Code
+﻿My first Code
 
 あいうえお
+
+ああああああああ
+
+ああああああああ
+
 
