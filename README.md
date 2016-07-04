@@ -57,8 +57,6 @@ CommitメッセージをvimではなくNotepadで入力する場合。
 `$ git config --global core.editor "'C:/Program Files/sakura/sakura.exe' -CODE=4"`  
 *sakura.exeのパスは、各自のローカルでご確認ください。*
 
-秀丸(動作未確認 :bow: )  
-`$ git config ?global core.editor “‘C:/program files/hidemaru/hidemaru.exe’ //fu8”`
 
 ## 以下は必要に応じて設定を行ってください
 
